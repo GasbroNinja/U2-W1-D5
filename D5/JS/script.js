@@ -1,4 +1,4 @@
-
+/* DA COMPLETARE LA NAVBAR CAMBIA COLORE */
 
 function scrollValue() {
     var navbar = document.getElementById('navbar');
